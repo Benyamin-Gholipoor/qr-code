@@ -1,2 +1,2 @@
 # qr-code
-make basice qr-code with Html &amp; Css
+make basic qr-code with Html &amp; Css
